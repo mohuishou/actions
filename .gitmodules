@@ -1,0 +1,3 @@
+[submodule "hugo-action"]
+	path = hugo-action
+	url = https://github.com/mohuishou/hugo-action
